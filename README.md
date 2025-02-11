@@ -8,19 +8,19 @@
 
 - `easy/`：簡單題目資料夾
   - `1_two-sum/`：Two Sum 題目資料夾
-    - `solution-1.js`：暴力解法
-    - `solution-2.js`：優化解法
-    - `README.md`：該題的筆記和解法說明
+    - `solution-1.js`：一開始的解法
+    - `solution-2.js`：優化解法、第2種解法
+    - `log.md`：該題的額外心得/雜談/碎念
 - `medium/`：中等題目資料夾
   - `3_longest-substring/`：Longest Substring Without Repeating Characters 題目資料夾
-    - `solution-1.js`：暴力解法
-    - `solution-2.js`：優化解法
-    - `README.md`：該題的筆記和解法說明
+    - `solution-1.js`：一開始的解法
+    - `solution-2.js`：優化解法、第2種解法
+    - `log.md`：該題的額外心得/雜談/碎念
 - `hard/`：困難題目資料夾
   - `23_merge-k-sorted-lists/`：Merge k Sorted Lists 題目資料夾
-    - `solution-1.js`：暴力解法
-    - `solution-2.js`：優化解法
-    - `README.md`：該題的筆記和解法說明
+    - `solution-1.js`：一開始的解法
+    - `solution-2.js`：優化解法、第2種解法
+    - `log.md`：該題的額外心得/雜談/碎念
 - `notes/`：刷題筆記與解題技巧
   - `data-structures.md`：資料結構筆記
   - `algorithms.md`：演算法筆記
